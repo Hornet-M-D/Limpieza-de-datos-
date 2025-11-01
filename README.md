@@ -1,5 +1,7 @@
 # Limpieza-de-datos-
 
+por: David Alejandro Restrepo Tuberquia
+
 Este documento detalla el proceso sistemático de limpieza y preparación aplicado al dataset IOT-temp.csv, el cual contiene 97,606 registros de mediciones de temperatura de dispositivos IoT. El objetivo principal fue corregir problemas de tipos de datos, inconsistencias de formato (especialmente en la columna de tiempo) y la presencia de datos faltantes, dejando el dataset en un estado óptimo para el análisis de series de tiempo.
 
 1. Diagnóstico Inicial de la Calidad de Datos
